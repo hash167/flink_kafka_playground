@@ -1,0 +1,4 @@
+.gradle
+.idea
+flink-job-1.0.jar
+build/
